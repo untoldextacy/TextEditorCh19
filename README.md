@@ -1,7 +1,7 @@
-## JATE (Just Another Text Editor)
-# JATE is a Progressive Web Application (PWA) text editor that works both online and offline. The application allows users to take and save notes, and it leverages IndexedDB for storing content on the client side. It’s built using Webpack for bundling the front-end, with Express.js running the back-end server. This app also implements service workers for offline functionality.
+# JATE (Just Another Text Editor)
+## JATE is a Progressive Web Application (PWA) text editor that works both online and offline. The application allows users to take and save notes, and it leverages IndexedDB for storing content on the client side. It’s built using Webpack for bundling the front-end, with Express.js running the back-end server. This app also implements service workers for offline functionality.
 
-## Features
+# Features
 - Offline Functionality: The app works without an internet connection by using IndexedDB and service workers.
 - Progressive Web App (PWA): The app can be installed on mobile and desktop devices.
 - Text Editing: Users can create, edit, and save notes.
@@ -9,20 +9,20 @@
 - Automatic Saving: Text is automatically saved while the user is editing.
 
   
-## Technologies Used
-# Frontend:
+# Technologies Used
+## Frontend:
 - HTML, CSS, JavaScript
 - Webpack for bundling
 - Service Worker for offline caching
 - IndexedDB for data storage
   
-# Backend:
+## Backend:
 - Express.js
 - Nodemon for automatic server restarts during development
 - Concurrently to run both client and server
 
   
-# Development Tools:
+## Development Tools:
 - Babel for JavaScript transpiling
 - Webpack for bundling
 - Workbox for service worker management
@@ -30,9 +30,9 @@
 - Node.js & npm for package management
 
 - 
-## Installation
+# Installation
 
-# Prerequisites
+## Prerequisites
 
 You will need to have the following installed:
 ```bash
