@@ -46,7 +46,7 @@ Clone this repository to your local machine:
 
 ```bash
 Copy code
-git clone https://github.com/your-username/JATE.git
+git clone https://github.com/untoldextacy/TextEditorCh19.git
 cd JATE
 ```
 
@@ -60,8 +60,7 @@ npm install
 # To start the application in development mode:
 
 ``` bash
-Copy code
-npm start
+npm run dev
 ```
 
 # This will run both the Express server and Webpack Dev Server for the client.
