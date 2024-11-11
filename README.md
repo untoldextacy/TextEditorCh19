@@ -90,6 +90,9 @@ Commit your changes with a meaningful message.
 Push your changes to your fork.
 Submit a pull request to the main repository.
 ```
+## Live Demo 
+Cick [here](https://texteditorch19.onrender.com/) to try out the app!
+
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
